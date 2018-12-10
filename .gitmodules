@@ -1,0 +1,3 @@
+[submodule "src/main/java/example/carvalues/priv"]
+	path = src/main/java/example/carvalues/priv
+	url = https://github.com/EMBL-EBI-TSI/rover-demo.git
